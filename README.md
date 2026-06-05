@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👨‍💻 Android Developer Profile
+# First: 👨‍💻 Android Developer Profile
 
 Without any knowlege's Senior Android Developer,
    
@@ -22,24 +22,23 @@ tools:
   - Git: "Version control"
   - Gradle: "Build system"
   - GitHub Actions: "CI/CD"
-```
 
 ## 🚀 Featured Project
 
-Let us 拭目以待
+- Let us 拭目以待
 
-## 📊 GitHub Stats
-
+##  📊 GitHub Stats
+- None
+```
 
 ## 🎯 Current Focus
 
-```ascii
 ┌─────────────────────────────────────────┐
-│  🔥 DeviceInfo v3 Development    │
+│  🔥 Device API Development    │
 ├─────────────────────────────────────────┤
 │  ✓ Fix startup crash issues             │
 │  ✓ Refactor device detail data models   │
-│  ▶ Implement CPU cache architecture    │
+│  ▶ Implement NPU detection             │
 │  ▶ Enhance hardware detection accuracy │
 │  ▶ Prepare GitHub release              │
 └─────────────────────────────────────────┘
@@ -47,22 +46,23 @@ Let us 拭目以待
 
 ## 🛠️ Development Environment
 
-```bash
-# System Configuration
-OS="Windows 11"
-IDE="Android Studio Hedgehog | 2023.1.1"
-SDK="Android SDK 35"
-JDK="JetBrains Runtime 17"
-BuildTool="Gradle 8.2 + AGP 8.2.0"
+- # System Configuration
+- OS="Windows 11"
+- IDE="Android Studio Hedgehog | 2023.1.1"
+- SDK="Android SDK 35"
+- JDK="JetBrains Runtime 17"
+- BuildTool="Gradle 8.2 + AGP 8.2.0"
 
-# Hardware
-CPU="Snapdragon 8s Gen 3,865"for test
-```
+- # Hardware
+- CPU="Snapdragon 8s Gen 3,865"for test
 
 ## 📫 Connect & Collaborate
 
 ## 🏆 Achievements
-skills: ["Deep understanding of Android framework","Expert in performance profiling & optimization","Proficient in modern Android development"],
-### 😎 - "Thanks for visiting my profile! 🚀",
+
+- "Deep understanding of Android framework",
+- "Expert in performance profiling & optimization",
+- "Proficient in modern Android development"],
+### 😎 - "Thanks for visiting my profile! 🚀"……
         - "Let's build amazing apps together!"
-This README is written in a code-centric style
+This README is written in a code-centric style,  AI edit ,  信不信由哩😶‍🌫️。
