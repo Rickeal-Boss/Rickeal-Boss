@@ -2,7 +2,7 @@
 
 # First: 👨‍💻 Android Developer Profile
 
-Without any knowlege's Senior Android Developer,
+A self-proclaimed Senior Android Developer—zero Android knowledge included
    
 ## 🔧 Tech Stack
 
