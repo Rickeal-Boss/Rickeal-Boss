@@ -17,12 +17,6 @@ frameworks:
   - MVVM: "Architecture pattern"
   - Koin: "Dependency injection"
 
-tools:
-  - Android Studio: "IDE"
-  - Git: "Version control"
-  - Gradle: "Build system"
-  - GitHub Actions: "CI/CD"
-
 ## 🚀 Featured Project
 
 - Let us 拭目以待
