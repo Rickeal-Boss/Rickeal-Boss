@@ -43,7 +43,7 @@ frameworks:
 - # System Configuration
 - OS="Windows 11"
 - IDE="Android Studio Hedgehog | 2023.1.1"
-- SDK="Android SDK 35"
+- SDK="Android SDK 36"
 - JDK="JetBrains Runtime 17"
 - BuildTool="Gradle 8.2 + AGP 8.2.0"
 
