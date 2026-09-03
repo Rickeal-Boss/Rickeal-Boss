@@ -4,22 +4,9 @@
 
 A self-proclaimed Senior Android Developer—zero Android knowledge included
    
-## 🔧 Tech Stack
-
-- Kotlin: "Primary development language"
-- Java: "Legacy code maintenance"
-- Python: "Automation scripts"
-- JavaScript/TypeScript: "Tool development"
-
-frameworks:
-  - Jetpack Compose: "Modern UI development"
-  - Material Design 3: "UI design system"
-  - MVVM: "Architecture pattern"
-  - Koin: "Dependency injection"
-
 ## 🚀 Featured Project
 
-- Let us 拭目以待
+- Let us 拭目以待,考虑中
 
 ##  📊 GitHub Stats
 - None
@@ -42,13 +29,11 @@ frameworks:
 
 - # System Configuration
 - OS="Windows 11"
-- IDE="Android Studio Hedgehog | 2023.1.1"
 - SDK="Android SDK 36"
 - JDK="JetBrains Runtime 17"
-- BuildTool="Gradle 8.2 + AGP 8.2.0"
 
 - # Hardware
-- CPU="Snapdragon 8s Gen 3,865"for test
+- CPU="Snapdragon 8s Gen 3,865,870,820"for test
 
 ## 📫 Connect & Collaborate
 
@@ -57,6 +42,7 @@ frameworks:
 - "Deep understanding of Android framework",
 - "Expert in performance profiling & optimization",
 - "Proficient in modern Android development"],
+
 ### 😎 - "Thanks for visiting my profile! 🚀"……
         - "Let's build amazing apps together!"
 This README is written in a code-centric style,  AI edit ,  信不信由哩😶‍🌫️。
