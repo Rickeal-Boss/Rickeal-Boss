@@ -34,7 +34,7 @@ A self-proclaimed Senior Android Developer—zero Android knowledge included
 
 - # Hardware
 - CPU="Snapdragon 8s Gen 3,865,870,820"for test
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,,go,html,css,sass,javascript,github,windows,linux,git,bash,powershell)](https://skillicons.dev)
 ## 📫 Connect & Collaborate
 
 ## 🏆 Achievements
