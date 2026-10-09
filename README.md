@@ -9,12 +9,12 @@ A self-proclaimed Senior Android Developer—zero Android knowledge included
 - Let us 拭目以待,考虑中
 
 ##  📊 GitHub Stats
+
 - None
-```
 
-## 🎯 Current Focus
+###  🎯 Current Focus
 
-Harness developing
+- Harness developing
 ```
 
 ## 🛠️ Development Environment
