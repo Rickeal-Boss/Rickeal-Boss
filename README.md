@@ -14,15 +14,7 @@ A self-proclaimed Senior Android Developer—zero Android knowledge included
 
 ## 🎯 Current Focus
 
-┌─────────────────────────────────────────┐
-│  🔥 Device API Development    │
-├─────────────────────────────────────────┤
-│  ✓ Fix startup crash issues             │
-│  ✓ Refactor device detail data models   │
-│  ▶ Implement NPU detection             │
-│  ▶ Enhance hardware detection accuracy │
-│  ▶ Prepare GitHub release              │
-└─────────────────────────────────────────┘
+Harness developing
 ```
 
 ## 🛠️ Development Environment
@@ -42,6 +34,7 @@ A self-proclaimed Senior Android Developer—zero Android knowledge included
 - "Deep understanding of Android framework",
 - "Expert in performance profiling & optimization",
 - "Proficient in modern Android development"],
+- waiting for your support
 
 ### 😎 - "Thanks for visiting my profile! 🚀"……
         - "Let's build amazing apps together!"
