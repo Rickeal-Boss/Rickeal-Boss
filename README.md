@@ -15,7 +15,6 @@ A self-proclaimed Senior Android Developer—zero Android knowledge included
 ###  🎯 Current Focus
 
 - Harness developing
-```
 
 ## 🛠️ Development Environment
 
