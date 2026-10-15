@@ -3,6 +3,8 @@
 # First: 👨‍💻 Android Developer Profile
 
 A self-proclaimed Senior Android Developer—zero Android knowledge included
+
+I really enjoy sitting in front of the computer every day, looking shocked as the new AI large models' benchmark scores explode like nuclear bombs.
    
 ## 🚀 Featured Project
 
@@ -35,6 +37,9 @@ A self-proclaimed Senior Android Developer—zero Android knowledge included
 - "Proficient in modern Android development"],
 - waiting for your support
 
+## 🏛️ I prefer to document the pitfalls and mistakes encountered in history as a mobile knowledge base into the repository so that everyone can better take over and refer to it in the future.
+
 ### 😎 - "Thanks for visiting my profile! 🚀"……
-        - "Let's build amazing apps together!"
+      - "Let's build amazing apps together!"
+      - "I created him, but his abilities blew far past what I expected, shocking me like I was sitting on a nuclear bomb waiting for it to explode."
 This README is written in a code-centric style,  AI edit ,  信不信由哩😶‍🌫️。
